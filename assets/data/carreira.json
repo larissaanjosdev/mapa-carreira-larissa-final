@@ -29,16 +29,15 @@
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Backend Web Júnior",
-      "description": "Meu primeiro objetivo é atuar no desenvolvimento e na manutenção da parte lógica de aplicações web, criando APIs, organizando dados e apoiando a integração entre sistemas. Quero aplicar meus estudos em JavaScript, Node.js, SQL, MySQL e lógica de programação para construir soluções funcionais, bem estruturadas e fáceis de manter, sempre com atenção à documentação, testes e boas práticas.",
+      "title": "Desenvolvedora Backend Júnior",
+      "description": "Meu objetivo é iniciar minha trajetória como desenvolvedora backend, contribuindo para a construção e manutenção da parte interna de sistemas e aplicações. Quero desenvolver APIs, trabalhar com bancos de dados, organizar informações e apoiar integrações entre diferentes serviços, aplicando meus conhecimentos em JavaScript, Node.js, SQL, MySQL e lógica de programação. Busco evoluir com boas práticas, documentação clara e atenção à qualidade das entregas.",
       "softSkills": [
         "Organização para acompanhar tarefas, prazos e registros técnicos.",
-        "Pensamento analítico para entender problemas, regras de negócio e fluxos de dados.",
+        "Pensamento analítico para compreender regras de negócio, fluxos de dados e possíveis falhas.",
         "Comunicação para tirar dúvidas, documentar decisões e colaborar com a equipe.",
         "Persistência para investigar erros, testar soluções e melhorar processos."
       ],
       "roadmap": [
-        "JavaScript",
         "Node.js",
         "APIs REST",
         "SQL e MySQL",
